@@ -1,6 +1,6 @@
 ### Oii! Eu sou a Betina Corazza ferrão
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT.
+- 🌱 I’m currently learning Java, HTML, CSS, JAVASCRIPT.
 - 📫 How to reach me: betina.ferrao20002@gmail.com
 - 😄 Pronouns: she/her
 
